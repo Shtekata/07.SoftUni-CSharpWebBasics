@@ -1,0 +1,13 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\IRunes.Models.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\IRunes.Models.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\IRunes.Models.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Models\obj\Debug\netcoreapp3.1\IRunes.Models.csproj.CopyComplete

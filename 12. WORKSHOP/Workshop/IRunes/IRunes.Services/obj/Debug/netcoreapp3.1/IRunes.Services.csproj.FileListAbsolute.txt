@@ -1,0 +1,17 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Data.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Models.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Data.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Models.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.csproj.CopyComplete
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\12. WORKSHOP\Workshop\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
