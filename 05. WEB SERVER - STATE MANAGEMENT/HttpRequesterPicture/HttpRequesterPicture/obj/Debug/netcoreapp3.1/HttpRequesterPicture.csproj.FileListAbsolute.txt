@@ -1,0 +1,11 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.exe
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.runtimeconfig.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.runtimeconfig.dev.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\bin\Debug\netcoreapp3.1\HttpRequesterPicture.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\obj\Debug\netcoreapp3.1\HttpRequesterPicture.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\obj\Debug\netcoreapp3.1\HttpRequesterPicture.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\obj\Debug\netcoreapp3.1\HttpRequesterPicture.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\obj\Debug\netcoreapp3.1\HttpRequesterPicture.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\05. WEB SERVER - STATE MANAGEMENT\HttpRequesterPicture\HttpRequesterPicture\obj\Debug\netcoreapp3.1\HttpRequesterPicture.pdb
