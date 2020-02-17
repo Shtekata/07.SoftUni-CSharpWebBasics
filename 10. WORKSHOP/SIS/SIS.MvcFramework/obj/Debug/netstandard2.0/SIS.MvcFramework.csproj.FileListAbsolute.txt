@@ -1,0 +1,33 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
