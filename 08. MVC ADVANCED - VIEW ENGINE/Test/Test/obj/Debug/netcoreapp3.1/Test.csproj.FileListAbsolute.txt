@@ -1,0 +1,11 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\08. MVC ADVANCED - VIEW ENGINE\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
