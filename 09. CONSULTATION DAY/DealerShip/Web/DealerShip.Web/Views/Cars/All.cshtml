@@ -1,0 +1,12 @@
+﻿@using DealerShip.Web.ViewModels.Cars.ViewModels
+@model IEnumerable<CarViewModel>
+
+@using DealerShip.Common
+@{
+    this.ViewData["Title"] = "Add car";
+}
+
+@foreach (var item in Model)
+{
+    <h1>@item.Make</h1>
+}
