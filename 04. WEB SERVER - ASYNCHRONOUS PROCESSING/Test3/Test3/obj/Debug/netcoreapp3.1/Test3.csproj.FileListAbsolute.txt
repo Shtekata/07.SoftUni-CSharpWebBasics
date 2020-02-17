@@ -1,0 +1,11 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.exe
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.dev.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\bin\Debug\netcoreapp3.1\Test3.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\obj\Debug\netcoreapp3.1\Test3.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\obj\Debug\netcoreapp3.1\Test3.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\Test3\Test3\obj\Debug\netcoreapp3.1\Test3.pdb

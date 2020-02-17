@@ -1,0 +1,17 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\04. WEB SERVER - ASYNCHRONOUS PROCESSING\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
