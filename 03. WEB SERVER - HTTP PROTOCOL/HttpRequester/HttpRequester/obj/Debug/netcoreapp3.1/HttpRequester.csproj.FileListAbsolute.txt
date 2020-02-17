@@ -1,0 +1,11 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.exe
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.runtimeconfig.dev.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\bin\Debug\netcoreapp3.1\HttpRequester.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\03. WEB SERVER - HTTP PROTOCOL\HttpRequester\HttpRequester\obj\Debug\netcoreapp3.1\HttpRequester.csprojAssemblyReference.cache
