@@ -1,0 +1,40 @@
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\06. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\07. MVC INTRODUCTION\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\10. WORKSHOP\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+D:\OneDrive\Z\07. SoftUni - C# Web Basics\11. MVC ADVANCED - IOC AND DATA BINDING\SIS 2\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
