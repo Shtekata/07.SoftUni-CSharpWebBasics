@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: language=bg; path=/; secure
+Date: Mon, 27 Jan 2020 19:40:20 GMT
+Content-Length: 20114
