@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj": {}
+    "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj": {
+    "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj",
         "projectName": "SharedTrip",
-        "projectPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj",
+        "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SharedTrip\\SharedTrip.csproj",
         "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SharedTrip\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SharedTrip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-                "projectPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+              "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj": {
+    "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj",
         "projectName": "SIS.HTTP",
-        "projectPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj",
+        "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj",
         "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -139,14 +139,14 @@
         }
       }
     },
-    "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+    "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "projectName": "SIS.MvcFramework",
-        "projectPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
+        "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\SIS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -165,8 +165,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj": {
-                "projectPath": "D:\\OneDrive\\Z\\07.SoftUni CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj"
+              "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj": {
+                "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\14. EXAM\\SIS.HTTP\\SIS.HTTP.csproj"
               }
             }
           }

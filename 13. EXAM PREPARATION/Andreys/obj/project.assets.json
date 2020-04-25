@@ -5325,11 +5325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Z\\07. SoftUni - C# Web Basics\\13. EXAM PREPARATION\\Andreys\\Andreys.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\13. EXAM PREPARATION\\Andreys\\Andreys.csproj",
       "projectName": "Andreys",
-      "projectPath": "D:\\OneDrive\\Z\\07. SoftUni - C# Web Basics\\13. EXAM PREPARATION\\Andreys\\Andreys.csproj",
+      "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\13. EXAM PREPARATION\\Andreys\\Andreys.csproj",
       "packagesPath": "C:\\Users\\geshe\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Z\\07. SoftUni - C# Web Basics\\13. EXAM PREPARATION\\Andreys\\obj\\",
+      "outputPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\13. EXAM PREPARATION\\Andreys\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5348,8 +5348,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\OneDrive\\Z\\07. SoftUni - C# Web Basics\\13. EXAM PREPARATION\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
-              "projectPath": "D:\\OneDrive\\Z\\07. SoftUni - C# Web Basics\\13. EXAM PREPARATION\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\13. EXAM PREPARATION\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "D:\\OneDrive\\Projects\\07.SoftUni-CSharpWebBasics\\13. EXAM PREPARATION\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
             }
           }
         }
